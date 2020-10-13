@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # This Python file uses the following encoding: utf-8
 # Happy Birthday
-# Bulls Eye: https://github.com/BullsEye0
+# instagram:unknown___coder
+# modefied by abdul razack
 # Created May, 20 2019
 # Copyright (c) 2019 Jolanda de Koff, Bulls Eye.
 
@@ -30,14 +31,8 @@ banner1 = """
 banner2 = """
 
 \033[1;31m
-
- ▄  █ ██   █ ▄▄  █ ▄▄ ▀▄    ▄     ███   ▄█ █▄▄▄▄    ▄▄▄▄▀ ▄  █ ██▄   ██  ▀▄    ▄
-█   █ █ █  █   █ █   █  █  █      █  █  ██ █  ▄▀ ▀▀▀ █   █   █ █  █  █ █   █  █
-██▀▀█ █▄▄█ █▀▀▀  █▀▀▀    ▀█       █ ▀ ▄ ██ █▀▀▌      █   ██▀▀█ █   █ █▄▄█   ▀█
-█   █ █  █ █     █       █        █  ▄▀ ▐█ █  █     █    █   █ █  █  █  █   █
-   █     █  █     █    ▄▀         ███    ▐   █     ▀        █  ███▀     █ ▄▀
-  ▀     █    ▀     ▀                        ▀              ▀           █
-       ▀                                                              ▀
+A B D U L R A Z A C K 
+F O L L O W ON INSTAGRAM= UNKNOWN___CODER
 
 \033[1;m
 
